@@ -1,0 +1,27 @@
+
+g
+java:S1192%"JDefine a constant instead of duplicating this literal "Ivanivich" 3 times.(¯“©Ä8œŸíŞƒ0
+o
+java:S1192%"RDefine a constant instead of duplicating this literal "Odessa Gaidara 24" 7 times.(¯“©Ä8œŸíŞƒ0
+d
+java:S1192%"GDefine a constant instead of duplicating this literal "Ivanov" 3 times.(¯“©Ä8œŸíŞƒ0
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ’í³8œŸíŞƒ0
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÑ’¿8œŸíŞƒ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ˆÛ
+V
+java:S1854+"9Remove this useless assignment to local variable "cust7".(ùû‘Ó8è¥íŞƒ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ©ƒÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ¾‚Úıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î¬´¦ÿÿÿÿÿ
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¼÷Èõşÿÿÿÿ8ø¥íŞƒ0
+G
+java:S1481+"*Remove this unused "cust7" local variable.(ùû‘Ó8‡¦íŞƒ0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡¦íŞƒ0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(áÍÄõıÿÿÿÿ8‡¦íŞƒ0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¯Ó‰°ûÿÿÿÿ8—¦íŞƒ0
+]	java:S125<"<This block of commented-out lines of code should be removed.(é…œ†úÿÿÿÿ8—¦íŞƒ0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¥Œô™ÿÿÿÿÿ8—¦íŞƒ0
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ğÎÁÅ8¦¦íŞƒ0
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ÅˆÙÊ8¦¦íŞƒ0
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ğÎÁÅ8¶¦íŞƒ0

@@ -1,0 +1,45 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èá®
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°–şåúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ë–Î
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‡ãM
+Q	java:S125#"<This block of commented-out lines of code should be removed.(î¹Ê
+Q	java:S125A"<This block of commented-out lines of code should be removed.(î¹Ê
+Q	java:S125R"<This block of commented-out lines of code should be removed.(î¹Ê
+Q	java:S125f"<This block of commented-out lines of code should be removed.(î¹Ê
+Q	java:S125x"<This block of commented-out lines of code should be removed.(î¹Ê
+W	java:S125‘"<This block of commented-out lines of code should be removed.(‡Ö¢êøÿÿÿÿ
+T
+java:S1135!"2Complete the task associated to this TODO comment.(‚šÍ“øÿÿÿÿ8º³˜„0
+M
+java:S1135("2Complete the task associated to this TODO comment.(¶”º€ùÿÿÿÿ
+T
+java:S1135P"2Complete the task associated to this TODO comment.(‚šÍ“øÿÿÿÿ8¦±¹˜„0
+H
+java:S1135U"2Complete the task associated to this TODO comment.(Ó¥Ğ¤
+M
+java:S1135d"2Complete the task associated to this TODO comment.(‚šÍ“øÿÿÿÿ
+G
+java:S1135i"2Complete the task associated to this TODO comment.(¬úüj
+H
+java:S1135v"2Complete the task associated to this TODO comment.(í˜Ï€
+W	java:S125­"<This block of commented-out lines of code should be removed.(ïÆĞÿÿÿÿÿ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(‰õü³
+W	java:S125µ"<This block of commented-out lines of code should be removed.(¬ùì‰üÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(äÜùıÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(àİ¢úÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(åÌëúÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(ëˆÙ¦şÿÿÿÿ
+I
+java:S1135ù"2Complete the task associated to this TODO comment.(İ‘ó¨
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(öÉ¾úùÿÿÿÿ
+R	java:S125¤"<This block of commented-out lines of code should be removed.(ñ£¹
+N
+java:S1135¢"2Complete the task associated to this TODO comment.(ÅœÍÔıÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ŞŸıüûÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashSet'.(ºŒôúÿÿÿÿ
+@
+java:S1128"*Remove this unused import 'java.util.Set'.(÷©”Õ
+T
+java:S1128	"?Remove this unused import 'javax.print.DocFlavor.INPUT_STREAM'.(¤Ê8

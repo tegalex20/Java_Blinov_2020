@@ -1,0 +1,15 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "OI 953" 3 times.(ìÖÎ±ÿÿÿÿÿ
+m
+java:S1192"RDefine a constant instead of duplicating this literal "Odessa Gaidara 24" 5 times.(ìÖÎ±ÿÿÿÿÿ
+e
+java:S1192"JDefine a constant instead of duplicating this literal "Petrovich" 3 times.(ìÖÎ±ÿÿÿÿÿ
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‚ÔÍùÿÿÿÿ
+e	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥äÅT
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ˆÛ
+V	java:S125"<This block of commented-out lines of code should be removed.(®ÒÇñüÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(§·Ô¶
+T
+java:S11357"2Complete the task associated to this TODO comment.(õîŸÆşÿÿÿÿ8”’ïŞƒ0
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(§·Ô¶

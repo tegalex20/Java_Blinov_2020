@@ -1,0 +1,201 @@
+package head02_option_b;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class Glava2TaskB {
+
+	/** ????? ????????? ?????  ?? ?????????? ??????? ? ??????? ? ?????? ?????? ???????? ? ???????? ??????? */
+	public static String convertDecimalToAny(int decimal, int systemIndex) {
+		int remaider;
+		String output = "";
+		
+		while (decimal > 0){
+			remaider = (decimal % systemIndex);
+			
+			/** ????? ?????????? ????? ? ????????? ???????? ? ??????????? ?  output*/
+			output = Integer.toString(remaider)+ output;
+	        decimal = decimal/systemIndex;
+	 	}
+		return output;
+	}
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		//B.1
+		//TODO ??????? ??????? ? 5 ????????? ? 2 ??????
+		 System.out.println( "\nB.1 Multiplication table.");
+				for (int i = 0; i < 10; i++) {
+					for (int j = 0; j < 11; j++) {
+						System.out.println( i+"*"+j+"="+i*j);
+					}
+					System.out.println();
+				}
+
+				//B.2
+				
+				System.out.println( "\nB.2- Bring the array elements in reverse order.");
+			
+				/** ???? ????????? ?????? ? ???????????? "n"*/
+				Scanner in = new Scanner ( System.in); 
+				System.out.println ("How many numbers do you want to enter:");
+				 int n = in.nextInt();
+				
+				 String[] mass = new String[n]; // input array
+					Scanner glava2 = new Scanner ( System.in);
+					for (int i = 0; i < mass.length; i++) 
+					{
+						System.out.print ("Enter numbers " + i + " =");
+						mass [i] = glava2.next(); 
+					}
+					//** ?????? ??????? ???????? ???????*/
+					System.out.print( "Elements in reverse order : ");
+					for (int i = mass.length - 1; i >= 0; i--) {
+						System.out.print( mass[i]+" ");
+					}
+				
+					//B.3
+					//TODO I did not understand the task
+					
+					//B.4
+					System.out.println();
+					System.out.println("\nB.4- Numbers that are divided by 3.");
+					
+					/** ??????? ?????? ????? ?? 1 ?? 100*/
+					 int[] mass4B = new int[100]; 		
+						for (int i = 0; i < 100; i++) 
+						{
+						 mass4B [i] =i+1 ; 
+						}
+						System.out.println( " Array" + Arrays.toString(mass4B) );
+					
+					
+				    /**? ????? ????? ????? ???????? ?????? ?????, ??????? ??????? ?? 3 ??? ???????*/
+					 int[] mass4 = new int[100];
+						for (int i = 0; i < mass4B.length; i++) {
+							if ( mass4B[i]%3==0 ) {  
+								mass4 [i] = mass4B[i];
+								}
+						}
+						
+						  System.out.print( "Numbers that are divided by 3 : " );
+						for (int i = 0; i < mass4.length; i++) {
+							if (mass4[i]>0) {
+								System.out.print(  mass4 [i]+ ", " );
+							}
+					   	}
+						
+						//B.5
+						
+						System.out.println();
+						System.out.println( "\nB.5 Meaning zeros in 129.");
+						int decimal = 129;
+						int remaider;
+						int h = 7;
+						int[] mass5 = new int[8];
+						
+						/** ????????? ????? 129 ?? ?????????? ??????? ? ???????? ?
+						 *  ?????? ?????? ???????? ? ???c?? mass5 ??????? ? ????? ??????? */
+						while (decimal > 0){
+							remaider = (decimal % 2);
+							mass5[h] = remaider;
+							decimal = decimal/2;
+					        h--;
+						}
+				        System.out.println ( " 129 in binary system" + Arrays.toString(mass5) );
+				        
+				        /** ? ?????? ??????? ?????? ??????? ?? ????????? 1
+						 * ? ??????? ??????? ????? ???? ????????? ?? ????????? 0
+				         */
+				        int flag = 0;
+				        int counter = 0;
+						for (int i = 0; i < mass5.length; i++) {
+							if (mass5[i]==1) {
+								flag++;
+							}
+							if (flag >0 && mass5[i] == 0) {
+								counter++;
+							}
+						}
+						 System.out.println ( " Meaning zeros in 129 : " + counter );	
+						 
+						 
+			//B.6 TODO			 
+				
+						 
+						//B.7 ????????? ???????? ????? ?? ?????????? ??????? ? ???????? ???????
+							System.out.println( "\nB.7-Translation of a number of decimal record ");
+							
+							/** ???? ?????? ????? ????? ? ? ????? ??????? ????????? ?? ??????????*/
+							Scanner inDecimal = new Scanner ( System.in); 
+							System.out.println ("Enter the number that you will translate:");
+							 int x7 = inDecimal.nextInt();
+							 System.out.println ("Enter the number, which system want to translate "+ x7+ " : ");
+							 int y7 = inDecimal.nextInt();
+							
+							String c7 = convertDecimalToAny(x7,y7);
+							System.out.println("Number "+x7+ " in the system you need : " + c7);
+
+		//B.9 ????????? ?????? ???????? ??????
+							
+							
+							System.out.println( "\nB.9 - The program displays the name of the month by its number ");
+							int number9;
+							do {
+							
+							 Scanner numMonth = new Scanner(System.in);
+							 System.out.println("Enter the month number : ");
+							 number9 = numMonth.nextInt();
+							
+							/** ????? ???????? ?????? ?? ??????*/
+							switch (number9) {
+							case 12:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to December. ");
+								break;
+							case 11:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to November. ");
+								break;
+							case 10:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to October. ");
+								break;
+							case 9:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to September. ");
+								break;
+							case 8:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to August. ");
+								break;
+							case 7:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to July. ");
+								break;
+							case 6:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to June. ");
+								break;
+							case 5:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to May. ");
+								break;
+							case 4:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to April. ");
+								break;	
+							case 3:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to March. ");
+								break;
+							case 2:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to February. ");
+								break;
+							case 1:
+								System.out.println( "You introduced " + number9+ " month, it corresponds to January. ");
+								break;	
+
+							default:
+								System.out.println( "You have entered a wrong number. ");
+								break;
+							}
+						  }
+							while (number9 >12);	
+	}
+
+}

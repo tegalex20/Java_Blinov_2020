@@ -1,0 +1,7 @@
+
+[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(”èùĞøÿÿÿÿ
+[	java:S107#"AConstructor has 8 parameters, which is greater than 7 authorized.(”èùĞøÿÿÿÿ
+[	java:S1075"AConstructor has 8 parameters, which is greater than 7 authorized.(”èùĞøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ˆÛ
+o	java:S116"URename this field "current_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç±¿øÿÿÿÿ
+d	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä‰

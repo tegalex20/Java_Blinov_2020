@@ -1,0 +1,25 @@
+
+2
+java:S1643"Use a StringBuilder instead.(Îìé¼
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á’Ÿ¦
+L
+java:S1854="6Remove this useless assignment to local variable "z8".(Œ¿ÎÁ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(äÃüÍ
+H
+java:S1135'"2Complete the task associated to this TODO comment.(Ğúş
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(é×ñô
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ö¢™şÿÿÿÿÿ
+H
+java:S1135;"2Complete the task associated to this TODO comment.(¾ù’
+=
+java:S1481="'Remove this unused "z8" local variable.(Œ¿ÎÁ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Ïîúì
+H
+java:S1135?"2Complete the task associated to this TODO comment.(¾ù’
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(¾à×øÿÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(çˆ€²üÿÿÿÿ
+N
+java:S1135M"2Complete the task associated to this TODO comment.(êó‚8Íš„0
+?
+java:S2129N"$Remove this "BigInteger" constructor(ö“ŒÕüÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(öÿÙŞşÿÿÿÿ

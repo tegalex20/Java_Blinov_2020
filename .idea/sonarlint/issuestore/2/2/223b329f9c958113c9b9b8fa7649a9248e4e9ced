@@ -1,0 +1,23 @@
+
+g
+java:S1192"QDefine a constant instead of duplicating this literal "You introduced " 12 times.(Œœ£
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á’Ÿ¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àï¦Ôøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œºçàÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œœ£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¶¢
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Éî«ÿüÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¨¡æÒúÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÂıûÉ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(”©‡¬
+L	java:S106-"9Replace this use of System.out or System.err by a logger.(ÓÚ,
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Â…ù¥úÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(úíĞÙüÿÿÿÿ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(ÔééJ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(óªƒ¤ùÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¿¶ëÖûÿÿÿÿ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(³X
+J
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

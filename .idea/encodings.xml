@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/head02_option_a/Glava2TaskA.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/Customer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/HouseList.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/PatientList.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/PhoneList.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/Student.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/head03_option_a/StudentList.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>

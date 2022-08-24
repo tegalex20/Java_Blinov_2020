@@ -1,0 +1,22 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†¥ô©
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…€Õðþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÍÕ—øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°ø Õ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã óž
+Q	java:S125"<This block of commented-out lines of code should be removed.(£ñ©£
+V	java:S125 "<This block of commented-out lines of code should be removed.(×Þ¿þøÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(°ô°úÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(ð•®¼øÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Øï†ç
+Q	java:S125H"<This block of commented-out lines of code should be removed.(Ûý›ñ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(£ñ©£
+Q	java:S125l"<This block of commented-out lines of code should be removed.(£ñ©£
+H
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+M
+java:S1135j"2Complete the task associated to this TODO comment.(ãñÎ¼ÿÿÿÿÿ
+H
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8–úÅ—„0
+P
+java:S1128	".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8˜úÅ—„0
